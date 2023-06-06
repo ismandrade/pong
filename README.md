@@ -1,6 +1,6 @@
 <h1 align="center">Pong</h1>
 
-<p align="justify">Fruto do meu primeiro projeto na Alura, foi desenvolvido o famoso jogo Pong, em que basicamente consiste em manipular uma raquete com os botões do teclado para impedir que a bolinha bata na borda da tela, acumulando pontos conforme o adversário falha em rebate-la de volta.</p>
+<p align="justify">Fruto do meu primeiro projeto na Alura, foi desenvolvido o famoso jogo Pong, em que basicamente consiste em manipular uma raquete com os botões do teclado para impedir que a bolinha bata na borda da tela.</p>
 
 <h1 align="center">Layout</h1>
 
